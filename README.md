@@ -36,4 +36,4 @@ Tento projekt je financovaný výlučne komunitou, takže ak sa vám tento playl
 # Contributors:
 autosarco
 
-Ervin (nincsen Github fiókja)
+Ervin
