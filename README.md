@@ -1,10 +1,13 @@
 # Visegrád M3U (aka. V4M3U)
-<img src="https://www.image2url.com/r2/default/images/1790783501168-92f45261-26dd-45ff-be22-441ef186fed7.png" width="100" height="100"></img>
+<img src="https://www.image2url.com/r2/default/images/1790783501168-92f45261-26dd-45ff-be22-441ef186fed7.png" width="200" height="200"></img>
 
+*A Közép-Európa tévéje*
+
+# Infó
 A Visegrád M3U (avagy V4M3U) egy hatalmas M3U lejátszási lista, a Visegrád Csoport tagjainak a csatornája található itt. Érezd jól magad, és nézz TV-t!
 
 # Teljes csatornák száma
-Ha rendesen befejezzük a listát, akkor kb. **233+ csatorna lesz elérhető összesen ezen a lejátszási listán!**
+Ha rendesen befejezzük a listát, akkor kb. **233+ csatorna lesz elérhető összesen ezen a lejátszási listán!** (kivéve International csatornák)
 
 # Contributorok:
 autosarco
